@@ -1,4 +1,4 @@
-import ExpenseItem from './components/ExpenseItem';
+import ExpenseItems from './components/ExpenseItems';
 
 function App() {
 
@@ -11,9 +11,8 @@ function App() {
   return (
     <div>
       <h2>Let's get started! {expenses[0].expensedate.toISOString()}</h2>
-      <ExpenseItem title={expenses[0].title} amount={expenses[0].amount} date={expenses[0].expensedate}></ExpenseItem>
-      <ExpenseItem title={expenses[1].title} amount={expenses[1].amount} date={expenses[1].expensedate}></ExpenseItem>
-      </div>
+      <ExpenseItems items={expenses}/>
+     </div>
   );
 }
 
