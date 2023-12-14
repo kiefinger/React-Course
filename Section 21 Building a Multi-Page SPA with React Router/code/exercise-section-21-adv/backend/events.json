@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"name":null,"title":"fdsa","image":"https://static.javatpoint.com/computer/images/what-is-the-url.png","date":"2023-05-01","description":"0fds","id":"c41bd759-0850-4c55-bf26-951d64f191ef"},{"name":null,"title":"fdsa","image":"https://static.javatpoint.com/computer/images/what-is-the-url.png","date":"2023-05-01","description":"0fds","id":"21192822-cd6f-47ce-8ea1-de11439c38ba"},{"name":null,"title":"fdsa","image":"https://static.javatpoint.com/computer/images/what-is-the-url.png","date":"2023-05-01","description":"0fds","id":"bd6519ef-d575-4ab0-aa8e-7a7e76ded174"},{"name":null,"title":"fdsa","image":"https://static.javatpoint.com/computer/images/what-is-the-url.png","date":"2023-03-12","description":"fdsa","id":"8db6313a-4ce3-4afd-8764-aba918c9685b"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
